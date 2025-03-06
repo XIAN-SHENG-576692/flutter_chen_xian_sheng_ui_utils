@@ -4,4 +4,4 @@ export 'basic/dataset_color_generator.dart';
 export 'bluetooth/bluetooth.dart';
 export 'change_notifier/change_notifier.dart';
 export 'chart/chart.dart';
-export 'path/special_path.dart';
+export 'path/arrow_path.dart';

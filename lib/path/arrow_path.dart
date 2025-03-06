@@ -3,7 +3,7 @@ import 'dart:ui';
 
 import 'package:flutter_chen_xian_sheng_core/flutter_chen_xian_sheng_core.dart';
 
-extension SpecialPath on Path {
+extension ArrowPath on Path {
   /// Creates an arrow-shaped path with specified properties.
   void addArrow({
     required Point<double> center,
